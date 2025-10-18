@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Camiseta Essencial Branca",
+    "preco": 89.9,
+    "descricao": "Algodão Pima de alta qualidade, corte minimalista e caimento perfeito. Peça fundamental.",
+    "categoria": "Camisetas",
+    "imagemUrl": "assets/img/camiseta-branca.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Calça Chino Slim Preta",
+    "preco": 199.9,
+    "descricao": "Tecido com elastano para conforto e mobilidade. Versátil para ambientes casuais e formais.",
+    "categoria": "Calças",
+    "imagemUrl": "assets/img/calca-preta.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Jaqueta Bomber Navy",
+    "preco": 329.0,
+    "descricao": "Design clássico e atemporal em tecido resistente à água. Ideal para meias-estações.",
+    "categoria": "Casacos",
+    "imagemUrl": "assets/img/jaqueta-navy.jpg"
+  }
+]
